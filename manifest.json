@@ -3,7 +3,7 @@
   "id": "ever.telemetry",
   "name": "System Telemetry",
   "version": "1.0.0",
-  "author": "Ever",
+  "author": "Everton M. de Jesus",
   "description": "Live CPU, memory, temperature, load, and disk telemetry",
   "kinds": [
     "bar-widget"
