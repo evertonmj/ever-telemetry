@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "ever.telemetry",
+  "name": "System Telemetry",
+  "version": "1.0.0",
+  "author": "Ever",
+  "description": "Live CPU, memory, temperature, load, and disk telemetry",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "System Telemetry",
+    "description": "Live CPU, RAM, temperature, load, and disk usage",
+    "category": "System",
+    "defaultSection": "right",
+    "allowMultiple": false
+  }
+}
